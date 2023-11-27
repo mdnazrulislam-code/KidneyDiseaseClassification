@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/DL%20Projects/KidneyDiseaseClassification/mlruns/0/c9db99d5eb9f48c4ad3946c7dac56566/artifacts
+end_time: 1701084713412
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9db99d5eb9f48c4ad3946c7dac56566
+run_name: intrigued-hare-838
+run_uuid: c9db99d5eb9f48c4ad3946c7dac56566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701084707490
+status: 3
+tags: []
+user_id: arfan
